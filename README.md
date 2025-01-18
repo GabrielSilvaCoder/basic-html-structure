@@ -1,4 +1,4 @@
-#Estrutura Básica de HTML e Seus Conceitos
+# Estrutura Básica de HTML e Seus Conceitos
 
 Este projeto é uma introdução aos conceitos fundamentais de desenvolvimento web, focando na criação de uma página simples. Ele abrange os seguintes tópicos principais:
 
@@ -10,4 +10,4 @@ Este projeto é uma introdução aos conceitos fundamentais de desenvolvimento w
 
 - Responsividade: Implementação de design responsivo, garantindo que o site se adapte a diferentes tamanhos de tela, proporcionando uma boa experiência em dispositivos móveis, tablets e desktops.
 
-*O objetivo deste projeto é fornecer uma base sólida para quem está começando a entender como estruturar uma página web de maneira eficiente e acessível.
+O objetivo deste projeto é fornecer uma base sólida para quem está começando a entender como estruturar uma página web de maneira eficiente e acessível.
